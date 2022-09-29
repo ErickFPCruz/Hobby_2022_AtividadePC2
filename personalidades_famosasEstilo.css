@@ -1,0 +1,19 @@
+body{
+    max-width: 1400px;
+    display: flex;
+    justify-content: center;
+}
+
+.grupo{
+    display: flex;
+    gap: 32px;
+}
+
+p{
+    max-width: 380px;
+}
+
+img{
+    width: 400px;
+    height: 500px;
+}
